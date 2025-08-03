@@ -9,6 +9,14 @@
   <img src="https://img.shields.io/github/followers/jirapat-su?style=flat-square&color=blue" alt="GitHub Followers">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jirapat-su/jirapat-su/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jirapat-su/jirapat-su/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jirapat-su/jirapat-su/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ### 👨‍💻 About Me
 
 With over **5 years of software development experience**, I've explored various aspects of the tech landscape.
